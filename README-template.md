@@ -42,7 +42,8 @@ This project solidified my understanding of Semantic HTML, reinforced my love fo
 
 ## Author
 Elizabeth Kennedy *******(Elizabeth, like the Queen; Kennedy, like the President)*******
-- GitHub - [Elizabeth Kennedy](https://www.)
+- GitHub - [Elizabeth Kennedy](https://www.github.com/ElizabethKennedy);
+-- URL -- https://www.elizabethkennedy.github.io
 
 
 ## Acknowledgments
